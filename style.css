@@ -21,7 +21,7 @@ h1 {
     z-index: 10;
     text-align: center;
     color: #00e5ff;
-    -webkit-text-stroke: 5px rgb(223, 0, 0);
+    -webkit-text-stroke: 3px rgb(223, 0, 0);
     width: 100%;
     border-radius: 50%;
     border: 2px solid #000;
