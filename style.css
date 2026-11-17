@@ -16,6 +16,9 @@ div {
 
 }
 h1 {
+    font-size: 80px;
+    position: relative;
+    z-index: 10;
     text-align: center;
     color: #3eff7b;
     -webkit-text-stroke: 3px black;
