@@ -16,11 +16,13 @@ div {
 
 }
 h1 {
+    text-align: center;
     color: #3eff7b;
+    -webkit-text-stroke: 3px black;
     width: 100%;
     border-radius: 50%;
     border: 2px solid #000;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 img {
     width: 60%;
